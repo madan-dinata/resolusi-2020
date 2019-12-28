@@ -4,4 +4,8 @@ Programming yang ingin di kuasai
 - Javascript Lanjutan
   ^ es6
   ^ es2019
+- express js
 - Node js
+- Angular js
+- React js
+- rest api
