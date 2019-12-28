@@ -1,7 +1,8 @@
 Programming yang ingin di kuasai
 - JavaScript dasar
-- DOM Javascript
 - Javascript Lanjutan
   ^ es6
   ^ es2019
 - Node js
+- Vue js
+- React js
