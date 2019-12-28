@@ -6,3 +6,4 @@ Programming yang ingin di kuasai
 - Node js
 - Vue js
 - React js
+- Rest API
